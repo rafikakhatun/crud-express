@@ -26,7 +26,7 @@ const Registration = () => {
                 <button className="py-2 px-4 w-full rounded-md bg-blue-600 text-white mt-4 ">Registration</button>
 
                 <div>
-                    <Link className="text-center text-blue-700">Go to DashBoard</Link>
+                    <Link to="/dashboard" className="text-center text-blue-700">Go to DashBoard</Link>
                 </div>
 
                 
