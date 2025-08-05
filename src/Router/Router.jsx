@@ -1,11 +1,16 @@
-import React from 'react';
+import {
+  createBrowserRouter
+} from "react-router-dom";
+import Registration from "../components/Registration";
 
-const Router = () => {
-    return (
-        <div>
-            
-        </div>
-    );
-};
+const Router = createBrowserRouter([
+
+    {
+        path :"/",
+        element : <Registration></Registration>
+
+    }
+])
+
 
 export default Router;
