@@ -15,6 +15,12 @@ const Router = createBrowserRouter([
     {
         path : "/dashboard",
         element:<Dashboard></Dashboard>
+    },
+
+    {
+        path:"/backRegistrationForm",
+        element:<Registration></Registration>
+
     }
 ])
 
