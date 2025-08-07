@@ -17,6 +17,11 @@ const handleRegistration = (e) =>{
         email,
         password
     };
+    
+
+
+
+
 
     fetch("http://localhost:5050/user/",
         {
