@@ -1,12 +1,38 @@
-# React + Vite
+# 📝 React Registration & Dashboard App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React-based web application that allows users to register using a form and then view a static dashboard. It uses `react-router-dom` for navigation and `fetch()` for submitting form data to a backend API.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+✅ Registration Form  
+✅ Form Submission with `fetch()` (POST request)  
+✅ Tailwind CSS styling  
+✅ Dashboard with a static employee table  
+✅ Smooth navigation using React Router DOM
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🖼️ Screenshots
+
+### 🔐 Registration Page
+![Registration Page](https://via.placeholder.com/600x300.png?text=Registration+Form)
+
+### 📊 Dashboard Page
+![Dashboard](https://via.placeholder.com/600x300.png?text=Dashboard+View)
+
+---
+
+## 🔧 Tech Stack
+
+- **React.js**
+- **React Router DOM**
+- **Tailwind CSS**
+- **JavaScript (ES6+)**
+- **Fake/Local API (e.g., localhost:5050)**
+
+---
+
+## 📁 Project Structure
+
