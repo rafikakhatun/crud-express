@@ -20,7 +20,7 @@ This is a simple React-based web application that allows users to register using
 ![Registration Page](./src/assets/form-screenshot.png)
 
 ### 📊 Dashboard Page
-![Dashboard](https://via.placeholder.com/600x300.png?text=Dashboard+View)
+![Dashboard](./src/assets/dashborad-screenshot.png)
 
 ---
 
