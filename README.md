@@ -17,7 +17,7 @@ This is a simple React-based web application that allows users to register using
 ## 🖼️ Screenshots
 
 ### 🔐 Registration Page
-![Registration Page](https://via.placeholder.com/600x300.png?text=Registration+Form)
+![Registration Page](./src/assets/form-screenshot.png)
 
 ### 📊 Dashboard Page
 ![Dashboard](https://via.placeholder.com/600x300.png?text=Dashboard+View)
